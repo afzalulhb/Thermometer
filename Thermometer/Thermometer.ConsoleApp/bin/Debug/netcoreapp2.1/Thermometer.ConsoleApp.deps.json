@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Thermometer.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Thermometer.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Thermometer.ConsoleApp.dll": {}
+        }
+      },
+      "Thermometer.Logic/1.0.0": {
+        "runtime": {
+          "Thermometer.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thermometer.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thermometer.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

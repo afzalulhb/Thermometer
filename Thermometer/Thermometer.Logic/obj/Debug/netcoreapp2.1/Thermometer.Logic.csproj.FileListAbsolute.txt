@@ -1,0 +1,8 @@
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\bin\Debug\netcoreapp2.1\Thermometer.Logic.deps.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\bin\Debug\netcoreapp2.1\Thermometer.Logic.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\bin\Debug\netcoreapp2.1\Thermometer.Logic.pdb
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\obj\Debug\netcoreapp2.1\Thermometer.Logic.csproj.CoreCompileInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\obj\Debug\netcoreapp2.1\Thermometer.Logic.AssemblyInfoInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\obj\Debug\netcoreapp2.1\Thermometer.Logic.AssemblyInfo.cs
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\obj\Debug\netcoreapp2.1\Thermometer.Logic.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic\obj\Debug\netcoreapp2.1\Thermometer.Logic.pdb

@@ -1,0 +1,17 @@
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.csprojAssemblyReference.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.AssemblyInfoInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.AssemblyInfo.cs
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.Tests.deps.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.Tests.runtimeconfig.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.Tests.runtimeconfig.dev.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.Tests.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.pdb
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.csproj.CopyComplete
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\bin\Debug\netcoreapp2.1\Thermometer.Logic.Tests.pdb
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.Logic.Tests\obj\Debug\netcoreapp2.1\Thermometer.Logic.Tests.pdb

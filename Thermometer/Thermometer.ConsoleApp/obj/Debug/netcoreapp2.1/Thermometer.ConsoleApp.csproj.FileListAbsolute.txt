@@ -1,0 +1,14 @@
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.AssemblyInfo.cs
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.ConsoleApp.deps.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.ConsoleApp.runtimeconfig.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.ConsoleApp.runtimeconfig.dev.json
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.ConsoleApp.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.ConsoleApp.pdb
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.Logic.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\bin\Debug\netcoreapp2.1\Thermometer.Logic.pdb
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.csproj.CopyComplete
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.dll
+C:\Users\afzal\source\repos\Thermometer\Thermometer.ConsoleApp\obj\Debug\netcoreapp2.1\Thermometer.ConsoleApp.pdb
